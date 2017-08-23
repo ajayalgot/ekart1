@@ -53,7 +53,7 @@
 				</td>
 				
 			
-			<td><div class="thumbnail">
+			<td><div  class="thumbnail">
 			<img height="200px" width="200px" atl="${product.productid}"
 			src="<c:url value="/resources/images/${product.productid}.jpg"></c:url>">
 			</div></td> 
