@@ -129,6 +129,11 @@
     <script src="<c:url value="/resources/assets/js/jquery.min.js"/>"></script>
     <script src="<c:url value="/resources/assets/bootstrap/js/bootstrap.min.js"/>">
     </script>
+    
 </body>
+<table align="right">
+<td><a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="glyphicon glyphicon-chevron-up"></span></a></td>
+
+</table>
 
 </html>
