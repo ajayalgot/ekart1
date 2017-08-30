@@ -169,7 +169,7 @@
 			<td>${product.price}</td>
 			<td>${product.stock}</td>
 			<td><div class="thumbnail">
-				<img class="img-responsive" style="padding-top: 5px" src="/Compare1/myImage/imageDisplay?id=${product.productid}" alt="" width="200" height="200" />
+				<img class="img-responsive" style="padding-top: 5px" src="/EKART/myImage/imageDisplay?id=${product.productid}" alt="" width="200" height="200" />
 				</div>
 				 
 				</td>

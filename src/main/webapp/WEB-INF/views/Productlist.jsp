@@ -28,7 +28,7 @@
                     <div>
                         <div class="row">
                             <div class="thumbnail">
-				<img class="img-responsive" style="padding-top: 5px" src="/Compare1/myImage/imageDisplay?id=${product.productid}" alt="" width="200" height="200" />
+				<img class="img-responsive" style="padding-top: 5px" src="/EKART/myImage/imageDisplay?id=${product.productid}" alt="" width="200" height="200" />
 				</div><div class="col-md-12">
                                 <h4>${product.productName}</h4>
                                 <p>

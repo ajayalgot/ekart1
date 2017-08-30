@@ -83,7 +83,7 @@
 		<c:forEach items="${HomeList}" var="product">
 		<div class="col-md-4">
 				<div class="thumbnail">
-				<img class="img-responsive" style="padding-top: 5px" src="/Compare1/myImage/imageDisplay?id=${product.productid}" />
+				<img class="img-responsive" style="padding-top: 5px" src="/EKART/myImage/imageDisplay?id=${product.productid}" />
 				 <div class="caption">
                   <h4 class="pull-right">${product.price}</h4>
                   <h4><a href=  "#">${product.productName}</a></h4>
