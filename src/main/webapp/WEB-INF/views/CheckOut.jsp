@@ -106,7 +106,7 @@
                     <button class="btn btn-primary" type="submit">Agree & Place the Order</button>
                 </div>
             </div>
-        </div>
+        </div>+     
     </div>
    
  </form:form>
