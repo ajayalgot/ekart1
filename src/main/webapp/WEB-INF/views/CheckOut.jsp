@@ -99,7 +99,7 @@
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
                     <h4 class="modal-title">Cash On Delivery</h4></div>
                 <div class="modal-body">
-                    <p>A Shipping Charge of <Strong>Rs.49/-</Strong> is applicable for Cash on Delivery</p>
+                    <p>A Shipping Charge of <Strong>Rs.50/</Strong> is applicable for Cash on Delivery</p>
                 </div>
                 <div class="modal-footer">
                     <button class="btn btn-default" type="button" data-dismiss="modal">Close</button>
